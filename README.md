@@ -6,7 +6,7 @@ This is a simple, static web project built using only HTML. It is part of my per
 
 The goal of this project is to demonstrate how a clean and structured webpage can be built without any styling or scripting — purely with HTML. This helps focus on content layout, structure, and accessibility.
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 
